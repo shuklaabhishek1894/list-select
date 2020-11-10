@@ -1,0 +1,59 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    background:#851de3;
+    padding-bottom: 60px;
+  }
+  
+  .container {
+    padding-top: 77px;
+  }
+  .form-check-input {
+    position: absolute;
+    margin-top: 0.3rem;
+    margin-left: -2.25rem;
+  }
+  list-group-item {
+    position: relative;
+    display: block;
+    padding: .5rem .25rem !important;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    margin-bottom: 2px;
+  }
+  .card {
+    background-color : #ced4da
+  }
+  .badge-primary {
+    color: #fff;
+    background-color: #ef0745;
+}
+
+.card {
+    background-color: white;
+}
+
+.containerx {
+  display: table;
+  width: 100%;
+}
+
+.left-half {
+  background-color: white;
+  padding: 10px;
+  position: absolute;
+  left: 0px;
+  width: 50%;
+}
+
+.right-half {
+  background-color: white;
+  padding: 10px;
+  position: absolute;
+  right: 0px;
+  width: 50%;
+}
+.test{
+  padding: 0px 15px 8px;
+}
